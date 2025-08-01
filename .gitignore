@@ -1,3 +1,2 @@
-Store/Wlan_Interfaces_Data.json
-Store/MacAdddress_Data.json
-Store/Network_XML_Results.xml
+Store
+__pycache__
